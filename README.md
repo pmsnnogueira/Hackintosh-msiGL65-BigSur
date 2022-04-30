@@ -1,2 +1,2 @@
 # Hackintosh-BigSur
-macOs bigSur - MSI GL65-10SDK-036XPT
+macOs bigSur - LAPTOP MSI GL65-10SDK-036XPT
